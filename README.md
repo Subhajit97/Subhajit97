@@ -16,6 +16,8 @@
 
 ### 📊 Github Stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhajit97&label=Profile%20views&color=0e75b6&style=flat" alt="Subhajit97" /> </p>
+
 <p dir="auto">
     <a href="https://github.com/Subhajit97">
         <img title="Subhajit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit97&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
