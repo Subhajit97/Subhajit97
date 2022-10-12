@@ -20,9 +20,9 @@
 
 <p dir="auto">
     <a href="https://github.com/Subhajit97">
-        <img title="Subhajit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit97&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="Subhajit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit97&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-    <a href="https://github.com/Subhajit97"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subhajit97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <a href="https://github.com/Subhajit97"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subhajit97&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
     </a>
 </p>
 <br/>
