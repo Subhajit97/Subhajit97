@@ -1,6 +1,8 @@
 ### Hi, I'm Subhajit! 👋
 
-#### I'm a Software Developer🧑‍💻 @ [Turbot](https://turbot.com/)
+<img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
+
+#### I'm a Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @ [Turbot](https://turbot.com/)
 
 🔭 I’m currently working on [Steampipe](https://steampipe.io/)<br />
 
