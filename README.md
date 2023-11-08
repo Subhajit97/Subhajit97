@@ -1,12 +1,12 @@
-### Hi, I'm Subhajit! 👋
+### Greetings! I'm Subhajit 👋
 
-<img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
+![Subhajit's Avatar](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif#right)
 
-#### I'm a Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @ [Turbot](https://turbot.com/)
+#### Software Developer 🚀 at [Turbot](https://turbot.com/)
 
-🔭 I’m currently working on [Steampipe](https://steampipe.io/)<br />
+Currently, I'm dedicated to enhancing [Steampipe](https://steampipe.io/). I love exploring new technologies and building cool stuff.
 
-### Reach me 👇
+### Connect with me:
 <p dir="auto">
     <a href="https://www.linkedin.com/in/subhajit-mondal-08b13a178/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/10fcc3fc61bbf146537c4f6f5a59a340bd9d030a583f74cce7123bb1faba08b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
@@ -16,15 +16,10 @@
     </a>
 </p>
 
-### 📊 Github Stats
+### 📈 My GitHub Statistics:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhajit97&label=Profile%20views&color=0e75b6&style=flat" alt="Subhajit97" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=Subhajit97&label=Profile%20views&color=0e75b6&style=flat)
 
-<p dir="auto">
-    <a href="https://github.com/Subhajit97">
-        <img title="Subhajit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit97&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-    <a href="https://github.com/Subhajit97"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subhajit97&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    </a>
-</p>
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Subhajit97)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhajit97&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
