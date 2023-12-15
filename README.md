@@ -2,9 +2,9 @@
 
 ![Subhajit's Avatar](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif#right)
 
-#### Sr. Software Engineer 🚀 at [Turbot](https://turbot.com/)
+#### Senior Software Engineer 🚀 at [Turbot](https://turbot.com/)
 
-Currently, I'm dedicated to enhancing [Steampipe](https://steampipe.io/). I love exploring new technologies and building cool stuff.
+Currently enhancing [Steampipe](https://steampipe.io/) and actively working on [Flowpipe](https://flowpipe.io/). I love exploring new technologies and building cool stuff. Let's connect and create something amazing!
 
 **Languages and Tools:**
 
