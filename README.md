@@ -39,7 +39,7 @@ Currently enhancing [Steampipe](https://steampipe.io/) and actively working on [
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Subhajit97" alt="GitHub Streak" style="display: inline-block;"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhajit97&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" style="display: inline-block; margin-left: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhajit97&theme=dark&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" style="display: inline-block; margin-left: 20px;"/>
 </p>
 
 [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhajit97&theme=react-dark)](https://github.com/Subhajit97/github-readme-activity-graph)
